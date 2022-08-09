@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<title>First php</title>
 	</head>
 
 	<body>
@@ -11,7 +12,7 @@
 		?>
 		
 		<p><h1><marquee>
-		    <span style="color:#FF0000">T</span>
+			<span style="color:#FF0000">T</span>
 		    <span style="color:#66CC66">H</span>
 		    <span style="color:#FF9966">A</span>
 		    <span style="color:#FFCCCC">N</span>
